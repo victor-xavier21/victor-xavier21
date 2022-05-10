@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: victor-xavier21
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
