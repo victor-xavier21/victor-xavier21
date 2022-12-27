@@ -3,11 +3,15 @@
 ##
 
 
-<h3 align="center">👨‍💻   My Stats   👨‍💻</h3> 
+<h3 align="center">👨‍💻   My Stats   👨‍💻</h3>
+<br> 
  <div align="center">
   <a href="https://github.com/victor-xavier21">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-xavier21&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-xavier21&theme=midnight-purple&hide_border=false"/>
+
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
