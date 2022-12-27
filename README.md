@@ -7,10 +7,11 @@
 <br> 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-xavier21&theme=midnight-purple&hide_border=false"/>
-</div> 
-<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
+</div> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-xavier21&theme=midnight-purple&hide_border=false"/>
+<div align="center">
+
 </div> 
 
 ##
