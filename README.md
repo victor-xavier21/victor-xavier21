@@ -3,15 +3,14 @@
 ##
 
 
-<h3 align="center">👨‍💻   My Stats   👨‍💻</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=D0D0D0&background=000000&center=true&vCenter=true&multiline=true&width=800&height=65&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+MY+STATS+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 <br> 
 <div align="center">
-  <img width="48%" align="left"  src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
-  <img width="48%" align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=victor-xavier21&theme=midnight-purple&hide_border=false"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-xavier21&theme=midnight-purple&hide_border=false"/>
 </div> 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
-  <img width="23%" align="right" src="./img/gif-to-github.gif"/>
 </div> 
 
 <div style="display: inline_block"><br>
