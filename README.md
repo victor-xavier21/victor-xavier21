@@ -9,12 +9,16 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-xavier21&theme=midnight-purple&hide_border=false"/>
-<div align="center">
 
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-xavier21&theme=midnight-purple&hide_border=false"/>
 </div> 
 
 ##
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+TECHNOLOGIES+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
