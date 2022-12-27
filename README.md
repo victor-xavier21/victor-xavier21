@@ -6,7 +6,7 @@
 <h3 align="center">👨‍💻   My Stats   👨‍💻</h3> 
  <div align="center">
   <a href="https://github.com/victor-xavier21">
-  <img height="187px" width="400px" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190px" width="400px" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="185px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-xavier21&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
