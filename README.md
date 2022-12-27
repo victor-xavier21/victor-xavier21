@@ -13,8 +13,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div> 
 
-<br>
-
 ##
 
 <div style="display: inline_block"><br>
