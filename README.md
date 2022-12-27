@@ -1,9 +1,9 @@
 <img height="320px" width="100%" src="./img/wallpaper-myname4.gif"/>
 
-<!-- ##
+##
 
 
-<h3 align="center">👨‍💻   My Stats   👨‍💻</h3> -->
+<h3 align="center">👨‍💻   My Stats   👨‍💻</h3>
 <br> 
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-xavier21&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
