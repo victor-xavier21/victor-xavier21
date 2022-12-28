@@ -30,11 +30,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+ABOUT+ME+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
 
-<div align="left" >
+<div align="center" >
 
-  <img src="./img/gif-to-github.gif" width="250px" align="left">
+  <img src="./img/gif-to-github.gif" width="250px" align="center">
 
-  <p align="justify" style="margin-left:30px"> djndnlwjenwekfbjhwefbjhewjhwe jew jhe jefwbhefbewbjwebjhwfebjhwebjhwfebehwbfwhebfwjefewj ewj jwef jefw jwfe jhfwe jfew ewfw few efwj ef </p>
+  <p align="center" style="margin-left:30px"> djndnlwjenwekfbjhwefbjhewjhwe jew jhe jefwbhefbewbjwebjhwfebjhwebjhwfebehwbfwhebfwjefewj ewj jwef jefw jwfe jhfwe jfew ewfw few efwj ef </p>
 
 </div>
 
