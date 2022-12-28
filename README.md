@@ -32,10 +32,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+ABOUT+ME+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
 
-<div align="center">
-<img src="./img/gif-to-github.gif" width="250px" align="right">
 
-</div>
+<img src="./img/gif-to-github.gif" width="250px" align="right">
+<div align="left">
 <br>
 📌 Hello World! My name is Victor Xavier. I'm 22 years old. I live in Brazil in São Paulo.
 <br>
@@ -50,7 +49,7 @@
 <br>
 <br>
 📌 I am very persistent and dedicated. I work hard everyday to achieve my goals and dreams.
-
+</div>
 <br>
 
 
