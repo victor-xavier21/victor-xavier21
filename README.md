@@ -45,9 +45,10 @@
 <br>
 
 <br>
-📌 I like to develop websites, read books and play video games.
+📌 I love studying to acquire more knowledge and develop websites, I also like reading books and playing video games.
 <br>
-
+<br>
+<br>
 
 
 
