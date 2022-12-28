@@ -33,7 +33,7 @@
 <div style="display: flex;>
 
   <img src="./img/gif-to-github.gif" width="250px">
-  <p style="margin-left: 20px;"> djndnlwjenwekfbjhwefbjhewjhwe jew jhe jefwbhefbewbjwebjhwfebjhwebjhwfebehwbfwhebfwjefewj ewj jwef jefw jwfe jhfwe jfew ewfw few efwj ef </p>
+  <p > djndnlwjenwekfbjhwefbjhewjhwe jew jhe jefwbhefbewbjwebjhwfebjhwebjhwfebehwbfwhebfwjefewj ewj jwef jefw jwfe jhfwe jfew ewfw few efwj ef </p>
 
 </div>
  
