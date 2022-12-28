@@ -23,23 +23,29 @@
   <img align="center" alt="CSS" width="60" style="margin-left: 3px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js"  width="52" style="margin-left: 8px" src="https://user-images.githubusercontent.com/105253015/209736391-d014bd2d-f915-4b4e-9cd3-60bff69a3371.png">
   <img align="center" alt="React"  width="59" style="margin-left: 10px" src="https://user-images.githubusercontent.com/105253015/209736897-a1850d7b-1c9b-4081-9099-06b65c5f1063.png">
+  <img align="center" alt="Bootstrap5"  width="59" style="margin-left: 12px" src="https://user-images.githubusercontent.com/105253015/209738930-d1075f80-eda5-4689-afbb-fe599ee6b70c.png">
   <img align="center" alt="Bootstrap5"  width="59" style="margin-left: 12px" src="https://user-images.githubusercontent.com/105253015/209736817-be812d02-fd77-40c6-b22d-bd6414baeb7c.png">
+
 </div>
  
  ##
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+ABOUT+ME+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
 
-<div align="center" >
+<div align="center">
+<img src="./img/gif-to-github.gif" width="250px" align="left">
 
-  <img src="./img/gif-to-github.gif" width="250px" align="center">
-
-  <p align="center" style="margin-left:30px"> djndnlwjenwekfbjhwefbjhewjhwe jew jhe jefwbhefbewbjwebjhwfebjhwebjhwfebehwbfwhebfwjefewj ewj jwef jefw jwfe jhfwe jfew ewfw few efwj ef </p>
-
+ 🧓🏻 cccccccdmlkdeml
+🧓🏻 cccccccdmlkdeml
+🧓🏻 cccccccdmlkdeml
+🧓🏻 cccccccdmlkdeml
 </div>
 
- ##
 
+ ##
+<br>
+<br>
+<br>
  <br>
  <br>
  <br>
