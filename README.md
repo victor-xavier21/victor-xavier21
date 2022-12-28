@@ -44,11 +44,11 @@
 <br>
 
 <br>
-📌 I love studying to acquire more knowledge and develop websites, I also like reading books and playing video games.
+📌 I love studying to acquire more knowledge and develop websites, I also like reading books      and playing video games.
 <br>
+
 <br>
 📌 I am very persistent and dedicated. I work hard everyday to achieve my goals and dreams.
-
 </div>
 <br>
 
